@@ -1658,7 +1658,8 @@ mark {
 }
 
 .text-center {
-    text-align: center
+    text-align: center;
+    font-size: 18px;
 }
 
 .text-justify {
@@ -1784,6 +1785,7 @@ a.bg-danger:hover {
 
 ol,
 ul {
+    
     margin-top: 0;
     margin-bottom: 10px
 }
@@ -2307,7 +2309,7 @@ pre code {
         float: left
     }
     .col-sm-12 {
-        width: 100%
+        width: 100%;
     }
     .col-sm-11 {
         width: 91.66666667%
@@ -3228,7 +3230,7 @@ input[type=search] {
 }
 
 .form-group {
-    margin-bottom: 15px
+    margin-bottom: 15px;
 }
 
 .checkbox,
